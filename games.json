@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "hero-match",
+    "thumbnail": "https://BitNovaGo.github.io/images/300.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "papas-wingeria",
+    "thumbnail": "https://BitNovaGo.github.io/images/301.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "digital-circus-run",
+    "thumbnail": "https://BitNovaGo.github.io/images/302.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "guinea-piggy-matching",
+    "thumbnail": "https://BitNovaGo.github.io/images/303.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hexa-sort-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/304.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "skibronx-runner",
+    "thumbnail": "https://BitNovaGo.github.io/images/305.webp",
+    "genre": "Adventure, Sports"
+  },
+  {
+    "id": "student-and-teacher",
+    "thumbnail": "https://BitNovaGo.github.io/images/306.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ninjaroof",
+    "thumbnail": "https://BitNovaGo.github.io/images/307.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "garden-guardians",
+    "thumbnail": "https://BitNovaGo.github.io/images/308.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "noob-fun-fishing",
+    "thumbnail": "https://BitNovaGo.github.io/images/309.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "bitball",
+    "thumbnail": "https://BitNovaGo.github.io/images/310.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "bike-stunt-racing-legend",
+    "thumbnail": "https://BitNovaGo.github.io/images/311.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "teacher-simulator-christmas-exam",
+    "thumbnail": "https://BitNovaGo.github.io/images/312.webp",
+    "genre": "Quiz, Simulation"
+  },
+  {
+    "id": "cosmos-404",
+    "thumbnail": "https://BitNovaGo.github.io/images/313.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mermaidcore-aesthetics",
+    "thumbnail": "https://BitNovaGo.github.io/images/314.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "obby-pogo-parkour",
+    "thumbnail": "https://BitNovaGo.github.io/images/315.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "perfect-job-run",
+    "thumbnail": "https://BitNovaGo.github.io/images/316.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "overprotective-boyfriend",
+    "thumbnail": "https://BitNovaGo.github.io/images/317.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "idle-trade-routes",
+    "thumbnail": "https://BitNovaGo.github.io/images/318.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "the-zombie-house",
+    "thumbnail": "https://BitNovaGo.github.io/images/319.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "mega-ramp-car",
+    "thumbnail": "https://BitNovaGo.github.io/images/320.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "tung-sahur-bots-chase-room",
+    "thumbnail": "https://BitNovaGo.github.io/images/321.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sustainable",
+    "thumbnail": "https://BitNovaGo.github.io/images/322.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "airport-master-plane-tycoon",
+    "thumbnail": "https://BitNovaGo.github.io/images/323.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "tag-run",
+    "thumbnail": "https://BitNovaGo.github.io/images/324.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "match-master",
+    "thumbnail": "https://BitNovaGo.github.io/images/325.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "siberian-assault",
+    "thumbnail": "https://BitNovaGo.github.io/images/326.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "dirty-money-the-rich-get-rich",
+    "thumbnail": "https://BitNovaGo.github.io/images/327.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cricket-clash-pong",
+    "thumbnail": "https://BitNovaGo.github.io/images/328.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "gear-wars",
+    "thumbnail": "https://BitNovaGo.github.io/images/329.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "bubble-shooter-ultimate",
+    "thumbnail": "https://BitNovaGo.github.io/images/330.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "pin-board-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/331.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "blocks-stack-rush",
+    "thumbnail": "https://BitNovaGo.github.io/images/332.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "word-connect-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/333.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "girl-coloring-dress-up-games",
+    "thumbnail": "https://BitNovaGo.github.io/images/334.webp",
+    "genre": "Art, Casual, Dress-up"
+  },
+  {
+    "id": "cinema-business-idle-games",
+    "thumbnail": "https://BitNovaGo.github.io/images/335.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "kingdom-wars-td",
+    "thumbnail": "https://BitNovaGo.github.io/images/336.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "animal-bus-traffic-jam",
+    "thumbnail": "https://BitNovaGo.github.io/images/337.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "robybox-space-station-warehouse",
+    "thumbnail": "https://BitNovaGo.github.io/images/338.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "find-restore-hidden-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/339.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fruit-catcher",
+    "thumbnail": "https://BitNovaGo.github.io/images/340.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "3d-basketballio-dunk-sport",
+    "thumbnail": "https://BitNovaGo.github.io/images/341.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "gem-deep-digger",
+    "thumbnail": "https://BitNovaGo.github.io/images/342.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "kick-the-noobik-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/343.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "magic-christmas-tree-match-3",
+    "thumbnail": "https://BitNovaGo.github.io/images/344.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "farm-merge-harvest",
+    "thumbnail": "https://BitNovaGo.github.io/images/345.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mahjong-connect-1",
+    "thumbnail": "https://BitNovaGo.github.io/images/346.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "last-to-leave-circle-obby",
+    "thumbnail": "https://BitNovaGo.github.io/images/347.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "jewelry-idle",
+    "thumbnail": "https://BitNovaGo.github.io/images/348.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "big-bad-ape",
+    "thumbnail": "https://BitNovaGo.github.io/images/349.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spring-tile-master",
+    "thumbnail": "https://BitNovaGo.github.io/images/350.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "toy-assembly-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/351.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "100-hidden-capybaras",
+    "thumbnail": "https://BitNovaGo.github.io/images/352.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "striped-fruit-watermelon-land",
+    "thumbnail": "https://BitNovaGo.github.io/images/353.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ball-tower-of-hell",
+    "thumbnail": "https://BitNovaGo.github.io/images/354.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "home-match-tile-master",
+    "thumbnail": "https://BitNovaGo.github.io/images/355.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickman-brawler",
+    "thumbnail": "https://BitNovaGo.github.io/images/356.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "chicken-banana-quest",
+    "thumbnail": "https://BitNovaGo.github.io/images/357.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "wacky-dungeon",
+    "thumbnail": "https://BitNovaGo.github.io/images/358.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-and-wizards-mahjong",
+    "thumbnail": "https://BitNovaGo.github.io/images/359.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "zombie-road-shooter-with-destruction",
+    "thumbnail": "https://BitNovaGo.github.io/images/360.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "tanky-io",
+    "thumbnail": "https://BitNovaGo.github.io/images/361.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fnaf-shooter",
+    "thumbnail": "https://BitNovaGo.github.io/images/362.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jetpack-joyride-pcp",
+    "thumbnail": "https://BitNovaGo.github.io/images/363.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gym-simulator-tycoon",
+    "thumbnail": "https://BitNovaGo.github.io/images/364.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "save-memerots-acid-lava-lake",
+    "thumbnail": "https://BitNovaGo.github.io/images/365.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lulu-s-fashion-world",
+    "thumbnail": "https://BitNovaGo.github.io/images/366.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "marble-puzzle-quest",
+    "thumbnail": "https://BitNovaGo.github.io/images/367.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stunt-bike-rider-bros",
+    "thumbnail": "https://BitNovaGo.github.io/images/368.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "bubble-trouble-2-rebubbled",
+    "thumbnail": "https://BitNovaGo.github.io/images/369.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cosmic-tetriz-puzzles",
+    "thumbnail": "https://BitNovaGo.github.io/images/370.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "antarctica-88",
+    "thumbnail": "https://BitNovaGo.github.io/images/371.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "moto-stunts-driving-racing",
+    "thumbnail": "https://BitNovaGo.github.io/images/372.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "panda-mahjong-classic",
+    "thumbnail": "https://BitNovaGo.github.io/images/373.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "merge-haven",
+    "thumbnail": "https://BitNovaGo.github.io/images/374.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "grand-cyber-city",
+    "thumbnail": "https://BitNovaGo.github.io/images/375.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "money-man-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/376.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "lost-in-the-forest",
+    "thumbnail": "https://BitNovaGo.github.io/images/377.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "rooftop-challenge",
+    "thumbnail": "https://BitNovaGo.github.io/images/378.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "count-masters-superhero",
+    "thumbnail": "https://BitNovaGo.github.io/images/379.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "dog-escape",
+    "thumbnail": "https://BitNovaGo.github.io/images/380.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "split-shot-ball-adventure",
+    "thumbnail": "https://BitNovaGo.github.io/images/381.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "idle-gun-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/382.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tower-crush-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/383.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "construction-truck-building-games-for-kids",
+    "thumbnail": "https://BitNovaGo.github.io/images/384.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "blob-opera",
+    "thumbnail": "https://BitNovaGo.github.io/images/385.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "twisted-rope",
+    "thumbnail": "https://BitNovaGo.github.io/images/386.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "steam-sorter",
+    "thumbnail": "https://BitNovaGo.github.io/images/387.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gun-racing",
+    "thumbnail": "https://BitNovaGo.github.io/images/388.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "neon-core-breaker",
+    "thumbnail": "https://BitNovaGo.github.io/images/389.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "realm-traveler",
+    "thumbnail": "https://BitNovaGo.github.io/images/390.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "treasure-champion-chest-capture",
+    "thumbnail": "https://BitNovaGo.github.io/images/391.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sniper-elite-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/392.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "ok-parking",
+    "thumbnail": "https://BitNovaGo.github.io/images/393.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bird-sort-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/394.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-tower-parkour-climb",
+    "thumbnail": "https://BitNovaGo.github.io/images/395.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "scandinavian-mahjong",
+    "thumbnail": "https://BitNovaGo.github.io/images/396.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dogfight-ijs",
+    "thumbnail": "https://BitNovaGo.github.io/images/397.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nose-hospital",
+    "thumbnail": "https://BitNovaGo.github.io/images/398.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "idle-game-dev-simulator",
+    "thumbnail": "https://BitNovaGo.github.io/images/399.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "he-is-here",
+    "thumbnail": "https://BitNovaGo.github.io/images/400.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "caillou-chef",
+    "thumbnail": "https://BitNovaGo.github.io/images/401.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "screw-spin",
+    "thumbnail": "https://BitNovaGo.github.io/images/402.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "online-cats-multiplayer-park",
+    "thumbnail": "https://BitNovaGo.github.io/images/403.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "force-drift-racing-aussie-burnout",
+    "thumbnail": "https://BitNovaGo.github.io/images/404.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gluttony",
+    "thumbnail": "https://BitNovaGo.github.io/images/405.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "simplebox-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/406.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-rescue-draw-2-save",
+    "thumbnail": "https://BitNovaGo.github.io/images/407.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "chompers-io",
+    "thumbnail": "https://BitNovaGo.github.io/images/408.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "strawberry-shortcake",
+    "thumbnail": "https://BitNovaGo.github.io/images/409.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "car-racing-3d-drive-mad",
+    "thumbnail": "https://BitNovaGo.github.io/images/410.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "street-life",
+    "thumbnail": "https://BitNovaGo.github.io/images/411.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ninja-climb",
+    "thumbnail": "https://BitNovaGo.github.io/images/412.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "traffic-architect-tic",
+    "thumbnail": "https://BitNovaGo.github.io/images/413.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-alien-adventure",
+    "thumbnail": "https://BitNovaGo.github.io/images/414.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "obby---brainwave",
+    "thumbnail": "https://BitNovaGo.github.io/images/415.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-plane-power-challenge-fly",
+    "thumbnail": "https://BitNovaGo.github.io/images/416.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "match-dream-garden",
+    "thumbnail": "https://BitNovaGo.github.io/images/417.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bloon-pop",
+    "thumbnail": "https://BitNovaGo.github.io/images/418.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pet-merge",
+    "thumbnail": "https://BitNovaGo.github.io/images/419.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pixel-flow",
+    "thumbnail": "https://BitNovaGo.github.io/images/420.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mini-golf-saga",
+    "thumbnail": "https://BitNovaGo.github.io/images/421.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "tic-tac-toe",
+    "thumbnail": "https://BitNovaGo.github.io/images/422.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometry-rush-4d",
+    "thumbnail": "https://BitNovaGo.github.io/images/423.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "two-stunt-racers",
+    "thumbnail": "https://BitNovaGo.github.io/images/424.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "tile-match-the-immersive-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/425.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "granny-2-asylum-horror-house",
+    "thumbnail": "https://BitNovaGo.github.io/images/426.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "supermarket-together",
+    "thumbnail": "https://BitNovaGo.github.io/images/427.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cursed-treasure",
+    "thumbnail": "https://BitNovaGo.github.io/images/428.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rovercraft",
+    "thumbnail": "https://BitNovaGo.github.io/images/429.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blocks",
+    "thumbnail": "https://BitNovaGo.github.io/images/430.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "black-pink-stpatricks-day-concert",
+    "thumbnail": "https://BitNovaGo.github.io/images/431.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "athena-match",
+    "thumbnail": "https://BitNovaGo.github.io/images/432.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "gun-evolution",
+    "thumbnail": "https://BitNovaGo.github.io/images/433.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "woods-of-nevia-forest-survival",
+    "thumbnail": "https://BitNovaGo.github.io/images/434.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "daily-emoji-hunt",
+    "thumbnail": "https://BitNovaGo.github.io/images/435.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "supermarket-simulator-dream-store",
+    "thumbnail": "https://BitNovaGo.github.io/images/436.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "algerian-solitaire",
+    "thumbnail": "https://BitNovaGo.github.io/images/437.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "office-pyramid-solitaire",
+    "thumbnail": "https://BitNovaGo.github.io/images/438.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "head-basketball",
+    "thumbnail": "https://BitNovaGo.github.io/images/439.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "my-dinoland",
+    "thumbnail": "https://BitNovaGo.github.io/images/440.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tricky-arrow-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/441.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "egg-hunt-mania",
+    "thumbnail": "https://BitNovaGo.github.io/images/442.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-challenge-prison-run",
+    "thumbnail": "https://BitNovaGo.github.io/images/443.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-crash-simulator-royale",
+    "thumbnail": "https://BitNovaGo.github.io/images/444.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mart-puzzle-shopping-sort",
+    "thumbnail": "https://BitNovaGo.github.io/images/445.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "grass-land",
+    "thumbnail": "https://BitNovaGo.github.io/images/446.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "rooftop-run",
+    "thumbnail": "https://BitNovaGo.github.io/images/447.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "candy-bubble",
+    "thumbnail": "https://BitNovaGo.github.io/images/448.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mystery-digger",
+    "thumbnail": "https://BitNovaGo.github.io/images/449.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "race-time",
+    "thumbnail": "https://BitNovaGo.github.io/images/450.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "no-shorts",
+    "thumbnail": "https://BitNovaGo.github.io/images/451.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "float-for-brainrots",
+    "thumbnail": "https://BitNovaGo.github.io/images/452.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "blossom",
+    "thumbnail": "https://BitNovaGo.github.io/images/453.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "copter-io",
+    "thumbnail": "https://BitNovaGo.github.io/images/454.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "money-factory-tycoon-idle-game",
+    "thumbnail": "https://BitNovaGo.github.io/images/455.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-rush",
+    "thumbnail": "https://BitNovaGo.github.io/images/456.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "tiny-baker-ocean-jelly-cake",
+    "thumbnail": "https://BitNovaGo.github.io/images/457.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "skyscraper-to-the-sky",
+    "thumbnail": "https://BitNovaGo.github.io/images/458.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "secret-rooms",
+    "thumbnail": "https://BitNovaGo.github.io/images/459.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "2048-blocks-destruction",
+    "thumbnail": "https://BitNovaGo.github.io/images/460.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "single-line-puzzle-drawing",
+    "thumbnail": "https://BitNovaGo.github.io/images/461.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "secrets-of-charmland",
+    "thumbnail": "https://BitNovaGo.github.io/images/462.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "my-bakery",
+    "thumbnail": "https://BitNovaGo.github.io/images/463.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sniper-shooter-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/464.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "helix-jump",
+    "thumbnail": "https://BitNovaGo.github.io/images/465.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "christmas-sorting",
+    "thumbnail": "https://BitNovaGo.github.io/images/466.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bubble-shooter-valentine",
+    "thumbnail": "https://BitNovaGo.github.io/images/467.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "space-heroes-epic-galaxy-rpg",
+    "thumbnail": "https://BitNovaGo.github.io/images/468.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hostage-negotiator",
+    "thumbnail": "https://BitNovaGo.github.io/images/469.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mafia-roulette",
+    "thumbnail": "https://BitNovaGo.github.io/images/470.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "deep-in-the-lab-chapter-1",
+    "thumbnail": "https://BitNovaGo.github.io/images/471.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "knock-your-mind",
+    "thumbnail": "https://BitNovaGo.github.io/images/472.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cricket-superstar-league",
+    "thumbnail": "https://BitNovaGo.github.io/images/473.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "high-heels-collect-run",
+    "thumbnail": "https://BitNovaGo.github.io/images/474.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "survival-ops",
+    "thumbnail": "https://BitNovaGo.github.io/images/475.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "solitaire-klondike",
+    "thumbnail": "https://BitNovaGo.github.io/images/476.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "clash-of-ages",
+    "thumbnail": "https://BitNovaGo.github.io/images/477.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "digital-circus-io",
+    "thumbnail": "https://BitNovaGo.github.io/images/478.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "swimming-pool-romance",
+    "thumbnail": "https://BitNovaGo.github.io/images/479.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "driverz-ed",
+    "thumbnail": "https://BitNovaGo.github.io/images/480.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "box-it-up",
+    "thumbnail": "https://BitNovaGo.github.io/images/481.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "parking-space",
+    "thumbnail": "https://BitNovaGo.github.io/images/482.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "furniture-master-idle-tycoon",
+    "thumbnail": "https://BitNovaGo.github.io/images/483.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "roller-coaster-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/484.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hypermarket-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/485.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bomber-xxl",
+    "thumbnail": "https://BitNovaGo.github.io/images/486.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "queens-royal-sudoku-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/487.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "legend-of-hero",
+    "thumbnail": "https://BitNovaGo.github.io/images/488.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2020-connect",
+    "thumbnail": "https://BitNovaGo.github.io/images/489.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "money-gun-clicker",
+    "thumbnail": "https://BitNovaGo.github.io/images/490.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-tank-hero",
+    "thumbnail": "https://BitNovaGo.github.io/images/491.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "ultimate-flying-car-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/492.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "match-ten-number-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/493.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "block-puzzle-tropical-story",
+    "thumbnail": "https://BitNovaGo.github.io/images/494.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "vex-9",
+    "thumbnail": "https://BitNovaGo.github.io/images/495.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "color-bump-dancer",
+    "thumbnail": "https://BitNovaGo.github.io/images/496.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "elite-sniper",
+    "thumbnail": "https://BitNovaGo.github.io/images/497.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "supermarket-sort-n-match",
+    "thumbnail": "https://BitNovaGo.github.io/images/498.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "dreamy-jewel",
+    "thumbnail": "https://BitNovaGo.github.io/images/499.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "space-cleaner",
+    "thumbnail": "https://BitNovaGo.github.io/images/500.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "circle-run-endless",
+    "thumbnail": "https://BitNovaGo.github.io/images/501.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "memory-lane",
+    "thumbnail": "https://BitNovaGo.github.io/images/502.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "millionaire-quiz",
+    "thumbnail": "https://BitNovaGo.github.io/images/503.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "circuit-racing",
+    "thumbnail": "https://BitNovaGo.github.io/images/504.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "smarty-bubbles",
+    "thumbnail": "https://BitNovaGo.github.io/images/505.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "packing-line",
+    "thumbnail": "https://BitNovaGo.github.io/images/506.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "five-o",
+    "thumbnail": "https://BitNovaGo.github.io/images/507.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "castel-wars-modern",
+    "thumbnail": "https://BitNovaGo.github.io/images/508.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cat-from-hell-cat-simulator",
+    "thumbnail": "https://BitNovaGo.github.io/images/509.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "magic-sort",
+    "thumbnail": "https://BitNovaGo.github.io/images/510.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "batzo-runner",
+    "thumbnail": "https://BitNovaGo.github.io/images/511.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "solitaire-the-great-journey",
+    "thumbnail": "https://BitNovaGo.github.io/images/512.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "vintage-escape",
+    "thumbnail": "https://BitNovaGo.github.io/images/513.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "coin-merge-machine",
+    "thumbnail": "https://BitNovaGo.github.io/images/514.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pyramid-jewels",
+    "thumbnail": "https://BitNovaGo.github.io/images/515.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "quantum-god",
+    "thumbnail": "https://BitNovaGo.github.io/images/516.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nut-sort-build-the-city",
+    "thumbnail": "https://BitNovaGo.github.io/images/517.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mineclicker",
+    "thumbnail": "https://BitNovaGo.github.io/images/518.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "diamondz",
+    "thumbnail": "https://BitNovaGo.github.io/images/519.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "maze-hide-or-seek",
+    "thumbnail": "https://BitNovaGo.github.io/images/520.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "idle-casino-manager-tycoon",
+    "thumbnail": "https://BitNovaGo.github.io/images/521.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "starry-style-dorama-of-dream",
+    "thumbnail": "https://BitNovaGo.github.io/images/522.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "basketball-clash",
+    "thumbnail": "https://BitNovaGo.github.io/images/523.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cubidle",
+    "thumbnail": "https://BitNovaGo.github.io/images/524.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fruit-merge-reloaded",
+    "thumbnail": "https://BitNovaGo.github.io/images/525.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "jeep-parking-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/526.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "home-pin-2-fpx",
+    "thumbnail": "https://BitNovaGo.github.io/images/527.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "basket-random",
+    "thumbnail": "https://BitNovaGo.github.io/images/528.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "summer-rider-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/529.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "build-a-rollercoaster-simulator",
+    "thumbnail": "https://BitNovaGo.github.io/images/530.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "party-games-mini-shooter-battle",
+    "thumbnail": "https://BitNovaGo.github.io/images/531.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "jet-fighter-airplane-racing",
+    "thumbnail": "https://BitNovaGo.github.io/images/532.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "base-jump-wingsuit-flying",
+    "thumbnail": "https://BitNovaGo.github.io/images/533.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "pogo-masters",
+    "thumbnail": "https://BitNovaGo.github.io/images/534.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "diamond-mosaic",
+    "thumbnail": "https://BitNovaGo.github.io/images/535.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "obby-tower",
+    "thumbnail": "https://BitNovaGo.github.io/images/536.webp",
+    "genre": ".IO, Educational"
+  },
+  {
+    "id": "warfare-1917",
+    "thumbnail": "https://BitNovaGo.github.io/images/537.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-airport-ceo",
+    "thumbnail": "https://BitNovaGo.github.io/images/538.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "beauty-world-and-fashion-stylist",
+    "thumbnail": "https://BitNovaGo.github.io/images/539.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "settlers-of-albion",
+    "thumbnail": "https://BitNovaGo.github.io/images/540.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-finger",
+    "thumbnail": "https://BitNovaGo.github.io/images/541.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ramp-car-jumping",
+    "thumbnail": "https://BitNovaGo.github.io/images/542.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "boo-tiful-princess-match",
+    "thumbnail": "https://BitNovaGo.github.io/images/543.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "elevator-room-escape",
+    "thumbnail": "https://BitNovaGo.github.io/images/544.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "save-my-pets",
+    "thumbnail": "https://BitNovaGo.github.io/images/545.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "secrets-of-charmland",
+    "thumbnail": "https://BitNovaGo.github.io/images/546.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "collect-em-all",
+    "thumbnail": "https://BitNovaGo.github.io/images/547.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "high-school-popular-games",
+    "thumbnail": "https://BitNovaGo.github.io/images/548.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-steal-brainrot",
+    "thumbnail": "https://BitNovaGo.github.io/images/549.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-tower-hero",
+    "thumbnail": "https://BitNovaGo.github.io/images/550.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "city-bike-racing-champion",
+    "thumbnail": "https://BitNovaGo.github.io/images/551.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "jet-fighter-airplane-racing",
+    "thumbnail": "https://BitNovaGo.github.io/images/552.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "dungeon-clicker-rxx",
+    "thumbnail": "https://BitNovaGo.github.io/images/553.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "forest-glade-mysteries",
+    "thumbnail": "https://BitNovaGo.github.io/images/554.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "scary-teacher-3d-returns",
+    "thumbnail": "https://BitNovaGo.github.io/images/555.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "cooking-live",
+    "thumbnail": "https://BitNovaGo.github.io/images/556.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "physics-box-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/557.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tower-battle-ypr",
+    "thumbnail": "https://BitNovaGo.github.io/images/558.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "craft-and-battle",
+    "thumbnail": "https://BitNovaGo.github.io/images/559.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zen-mini-games-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/560.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "noob-fuse-xmr",
+    "thumbnail": "https://BitNovaGo.github.io/images/561.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2-cars-run",
+    "thumbnail": "https://BitNovaGo.github.io/images/562.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "block-blast-block-puzzle-master",
+    "thumbnail": "https://BitNovaGo.github.io/images/563.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bubble-shooter-wild-west",
+    "thumbnail": "https://BitNovaGo.github.io/images/564.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "dot-king",
+    "thumbnail": "https://BitNovaGo.github.io/images/565.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spirit-wars-2d",
+    "thumbnail": "https://BitNovaGo.github.io/images/566.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "u-shape-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/567.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "house-flip",
+    "thumbnail": "https://BitNovaGo.github.io/images/568.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dark-odyssey-lzc",
+    "thumbnail": "https://BitNovaGo.github.io/images/569.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mutant-assassin-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/570.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "tasty-jewel-joy",
+    "thumbnail": "https://BitNovaGo.github.io/images/571.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "senya-and-oscar-vs-zombies",
+    "thumbnail": "https://BitNovaGo.github.io/images/572.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-tnt-blast",
+    "thumbnail": "https://BitNovaGo.github.io/images/573.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "shotting-balls",
+    "thumbnail": "https://BitNovaGo.github.io/images/574.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "nine-cards-of-winter",
+    "thumbnail": "https://BitNovaGo.github.io/images/575.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "aces-of-the-sky-epic-dogfights",
+    "thumbnail": "https://BitNovaGo.github.io/images/576.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hungry-frog-zot",
+    "thumbnail": "https://BitNovaGo.github.io/images/577.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "christmas-candy-escape-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/578.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "car-dealer-idle",
+    "thumbnail": "https://BitNovaGo.github.io/images/579.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "idle-medieval-tower-defense",
+    "thumbnail": "https://BitNovaGo.github.io/images/580.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "container-auction",
+    "thumbnail": "https://BitNovaGo.github.io/images/581.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-horde-build-survive",
+    "thumbnail": "https://BitNovaGo.github.io/images/582.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "collect-em-all",
+    "thumbnail": "https://BitNovaGo.github.io/images/583.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pirates-of-the-caribbean-tow",
+    "thumbnail": "https://BitNovaGo.github.io/images/584.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chroma-tower",
+    "thumbnail": "https://BitNovaGo.github.io/images/585.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "poppy-playtime-3-game",
+    "thumbnail": "https://BitNovaGo.github.io/images/586.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "panda-lu-treehouse",
+    "thumbnail": "https://BitNovaGo.github.io/images/587.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bubble-shooter-witch-tower",
+    "thumbnail": "https://BitNovaGo.github.io/images/588.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "delicious-emilys-new-beginning-valentines-edition",
+    "thumbnail": "https://BitNovaGo.github.io/images/589.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "tileman-io",
+    "thumbnail": "https://BitNovaGo.github.io/images/590.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cute-coloring-games",
+    "thumbnail": "https://BitNovaGo.github.io/images/591.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spin-spin",
+    "thumbnail": "https://BitNovaGo.github.io/images/592.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crazy-combat",
+    "thumbnail": "https://BitNovaGo.github.io/images/593.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "atomic-merge-2048",
+    "thumbnail": "https://BitNovaGo.github.io/images/594.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "goods-sorting-shopping-master",
+    "thumbnail": "https://BitNovaGo.github.io/images/595.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "butterfly-kyodai-rainbow",
+    "thumbnail": "https://BitNovaGo.github.io/images/596.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "mahjong-3d-match",
+    "thumbnail": "https://BitNovaGo.github.io/images/597.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "duo-family-santa",
+    "thumbnail": "https://BitNovaGo.github.io/images/598.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "kour-io",
+    "thumbnail": "https://BitNovaGo.github.io/images/599.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "plants-vs-zombies-war",
+    "thumbnail": "https://BitNovaGo.github.io/images/600.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "parkinglot-rescue",
+    "thumbnail": "https://BitNovaGo.github.io/images/601.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-hotel-empire-tycoon",
+    "thumbnail": "https://BitNovaGo.github.io/images/602.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-kitties-catworld",
+    "thumbnail": "https://BitNovaGo.github.io/images/603.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fantasy-math-number",
+    "thumbnail": "https://BitNovaGo.github.io/images/604.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "arrow-wave",
+    "thumbnail": "https://BitNovaGo.github.io/images/605.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "pop-a-word",
+    "thumbnail": "https://BitNovaGo.github.io/images/606.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "paint-it",
+    "thumbnail": "https://BitNovaGo.github.io/images/607.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "warfront",
+    "thumbnail": "https://BitNovaGo.github.io/images/608.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "100-doors-challenge",
+    "thumbnail": "https://BitNovaGo.github.io/images/609.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "italian-brainrot-quiz",
+    "thumbnail": "https://BitNovaGo.github.io/images/610.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "duckpark-io",
+    "thumbnail": "https://BitNovaGo.github.io/images/611.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-pixel-apocalypse-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/612.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "plants-vs-brain-zombies",
+    "thumbnail": "https://BitNovaGo.github.io/images/613.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sprunki",
+    "thumbnail": "https://BitNovaGo.github.io/images/614.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "grand-theft-ny",
+    "thumbnail": "https://BitNovaGo.github.io/images/615.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "daily-chess-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/616.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "3d-chess-master",
+    "thumbnail": "https://BitNovaGo.github.io/images/617.webp",
+    "genre": "Boardgames, Strategy"
+  },
+  {
+    "id": "bartender-the-right-mix",
+    "thumbnail": "https://BitNovaGo.github.io/images/618.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dogs-vs-aliens",
+    "thumbnail": "https://BitNovaGo.github.io/images/619.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "master-chess",
+    "thumbnail": "https://BitNovaGo.github.io/images/620.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tank-snipers",
+    "thumbnail": "https://BitNovaGo.github.io/images/621.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gun-builder",
+    "thumbnail": "https://BitNovaGo.github.io/images/622.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "monster-mixer-idle",
+    "thumbnail": "https://BitNovaGo.github.io/images/623.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-cannon-number-blast",
+    "thumbnail": "https://BitNovaGo.github.io/images/624.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "skinwalker",
+    "thumbnail": "https://BitNovaGo.github.io/images/625.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sorting-candy-factory",
+    "thumbnail": "https://BitNovaGo.github.io/images/626.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dark-myth-monkey-merge",
+    "thumbnail": "https://BitNovaGo.github.io/images/627.webp",
+    "genre": "Adventure, Merge"
+  },
+  {
+    "id": "fat-cat-life",
+    "thumbnail": "https://BitNovaGo.github.io/images/628.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "blockpuzzle-color-blast",
+    "thumbnail": "https://BitNovaGo.github.io/images/629.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "base-jump-wing-suit-flying",
+    "thumbnail": "https://BitNovaGo.github.io/images/630.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cool-cars-racing-at-altitude",
+    "thumbnail": "https://BitNovaGo.github.io/images/631.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "jello-bubbles",
+    "thumbnail": "https://BitNovaGo.github.io/images/632.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "stacky-bird",
+    "thumbnail": "https://BitNovaGo.github.io/images/633.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-spin",
+    "thumbnail": "https://BitNovaGo.github.io/images/634.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "save-my-pet-party",
+    "thumbnail": "https://BitNovaGo.github.io/images/635.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ball-rolling-slope",
+    "thumbnail": "https://BitNovaGo.github.io/images/636.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "liquids-sort-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/637.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "block-team-deathmatch",
+    "thumbnail": "https://BitNovaGo.github.io/images/638.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "farm-drones",
+    "thumbnail": "https://BitNovaGo.github.io/images/639.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cube-drop-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/640.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sketchy-towers",
+    "thumbnail": "https://BitNovaGo.github.io/images/641.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pet-connect-match",
+    "thumbnail": "https://BitNovaGo.github.io/images/642.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gas-station-dcp",
+    "thumbnail": "https://BitNovaGo.github.io/images/643.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fix-the-hoof-hkv",
+    "thumbnail": "https://BitNovaGo.github.io/images/644.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rhythm-knight",
+    "thumbnail": "https://BitNovaGo.github.io/images/645.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "capy-cafe",
+    "thumbnail": "https://BitNovaGo.github.io/images/646.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hero-story-monsters-crossing",
+    "thumbnail": "https://BitNovaGo.github.io/images/647.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gym-muscle-merge-tycoon",
+    "thumbnail": "https://BitNovaGo.github.io/images/648.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "dragon-island-idle-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/649.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "slope-emoji-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/650.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "nitro-speed-car-racing",
+    "thumbnail": "https://BitNovaGo.github.io/images/651.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ship-parking-game",
+    "thumbnail": "https://BitNovaGo.github.io/images/652.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "car-eats-car-underwater-adventure",
+    "thumbnail": "https://BitNovaGo.github.io/images/653.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-tile-club",
+    "thumbnail": "https://BitNovaGo.github.io/images/654.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "office-horror-story",
+    "thumbnail": "https://BitNovaGo.github.io/images/655.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "coin-merge",
+    "thumbnail": "https://BitNovaGo.github.io/images/656.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "harvest-kings",
+    "thumbnail": "https://BitNovaGo.github.io/images/657.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "leek-factory-tycoon",
+    "thumbnail": "https://BitNovaGo.github.io/images/658.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "steal-brainrot-arena",
+    "thumbnail": "https://BitNovaGo.github.io/images/659.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "block-tech-epic-sandbox",
+    "thumbnail": "https://BitNovaGo.github.io/images/660.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "domino-smash-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/661.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-galaxy",
+    "thumbnail": "https://BitNovaGo.github.io/images/662.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "cat-lovescapes",
+    "thumbnail": "https://BitNovaGo.github.io/images/663.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cloneup-stack-yourself",
+    "thumbnail": "https://BitNovaGo.github.io/images/664.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "soccer-random",
+    "thumbnail": "https://BitNovaGo.github.io/images/665.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cubatoria-merge-2048",
+    "thumbnail": "https://BitNovaGo.github.io/images/666.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "sticky-orbit",
+    "thumbnail": "https://BitNovaGo.github.io/images/667.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "drone-racing-championship",
+    "thumbnail": "https://BitNovaGo.github.io/images/668.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kids-supermarket",
+    "thumbnail": "https://BitNovaGo.github.io/images/669.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "i-am-not-infected",
+    "thumbnail": "https://BitNovaGo.github.io/images/670.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "espn-arcade-baseball",
+    "thumbnail": "https://BitNovaGo.github.io/images/671.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "city-car-driving-simulator-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/672.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "squid-candy-challenge",
+    "thumbnail": "https://BitNovaGo.github.io/images/673.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "eat-donuts",
+    "thumbnail": "https://BitNovaGo.github.io/images/674.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idle-supermarket-tycoon",
+    "thumbnail": "https://BitNovaGo.github.io/images/675.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bubble-trouble",
+    "thumbnail": "https://BitNovaGo.github.io/images/676.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mr-drifter-car-chase-simulator",
+    "thumbnail": "https://BitNovaGo.github.io/images/677.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "once-upon-a-coma",
+    "thumbnail": "https://BitNovaGo.github.io/images/678.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "console-idle",
+    "thumbnail": "https://BitNovaGo.github.io/images/679.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "day-of-atrocity",
+    "thumbnail": "https://BitNovaGo.github.io/images/680.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "horror-room-scary-hotel-tycoon",
+    "thumbnail": "https://BitNovaGo.github.io/images/681.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-sweet-connection",
+    "thumbnail": "https://BitNovaGo.github.io/images/682.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "off-road-overdrive",
+    "thumbnail": "https://BitNovaGo.github.io/images/683.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "escape-or-die",
+    "thumbnail": "https://BitNovaGo.github.io/images/684.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "classic-labyrinth-3d-maze",
+    "thumbnail": "https://BitNovaGo.github.io/images/685.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "rainbow-balls-2048",
+    "thumbnail": "https://BitNovaGo.github.io/images/686.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "witch-craft-potion-sort",
+    "thumbnail": "https://BitNovaGo.github.io/images/687.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "connect-em-all",
+    "thumbnail": "https://BitNovaGo.github.io/images/688.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cute-army-a-cat-story",
+    "thumbnail": "https://BitNovaGo.github.io/images/689.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sweet-and-fruity-makeup",
+    "thumbnail": "https://BitNovaGo.github.io/images/690.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "save-the-daddy",
+    "thumbnail": "https://BitNovaGo.github.io/images/691.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "lost-adventure",
+    "thumbnail": "https://BitNovaGo.github.io/images/692.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sandbox-island-war",
+    "thumbnail": "https://BitNovaGo.github.io/images/693.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "motogp-motocross-race",
+    "thumbnail": "https://BitNovaGo.github.io/images/694.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "city-bus-driver",
+    "thumbnail": "https://BitNovaGo.github.io/images/695.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jump-master",
+    "thumbnail": "https://BitNovaGo.github.io/images/696.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "italian-brainrot-baby-clicker",
+    "thumbnail": "https://BitNovaGo.github.io/images/697.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hair-salon-beauty-salon",
+    "thumbnail": "https://BitNovaGo.github.io/images/698.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "pinturillo",
+    "thumbnail": "https://BitNovaGo.github.io/images/699.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sweet-and-fruity-makeup",
+    "thumbnail": "https://BitNovaGo.github.io/images/700.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "miniblox",
+    "thumbnail": "https://BitNovaGo.github.io/images/701.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "diepio",
+    "thumbnail": "https://BitNovaGo.github.io/images/702.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chinese-food-chef-dudu",
+    "thumbnail": "https://BitNovaGo.github.io/images/703.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "sbaloon",
+    "thumbnail": "https://BitNovaGo.github.io/images/704.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "medieval-battle-2p",
+    "thumbnail": "https://BitNovaGo.github.io/images/705.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-2048-cake",
+    "thumbnail": "https://BitNovaGo.github.io/images/706.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "candy-rain-5",
+    "thumbnail": "https://BitNovaGo.github.io/images/707.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "crash-test-idle",
+    "thumbnail": "https://BitNovaGo.github.io/images/708.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-owner-is-dead",
+    "thumbnail": "https://BitNovaGo.github.io/images/709.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "screw-out-bolts-and-nuts",
+    "thumbnail": "https://BitNovaGo.github.io/images/710.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brainrots-lava-survive-online",
+    "thumbnail": "https://BitNovaGo.github.io/images/711.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "candy-jewels",
+    "thumbnail": "https://BitNovaGo.github.io/images/712.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "global-transport-tycoon-idle",
+    "thumbnail": "https://BitNovaGo.github.io/images/713.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fortune-match",
+    "thumbnail": "https://BitNovaGo.github.io/images/714.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "basket-battle-zmg",
+    "thumbnail": "https://BitNovaGo.github.io/images/715.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gangster-contract-mafia-wars",
+    "thumbnail": "https://BitNovaGo.github.io/images/716.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "girlfriend-from-hell",
+    "thumbnail": "https://BitNovaGo.github.io/images/717.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-gunner",
+    "thumbnail": "https://BitNovaGo.github.io/images/718.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "night-club-security",
+    "thumbnail": "https://BitNovaGo.github.io/images/719.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "noob-zombie-prison-escape",
+    "thumbnail": "https://BitNovaGo.github.io/images/720.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tanks-race-for-survival",
+    "thumbnail": "https://BitNovaGo.github.io/images/721.webp",
+    "genre": "Racing & Driving, Battle"
+  },
+  {
+    "id": "merge-hospital",
+    "thumbnail": "https://BitNovaGo.github.io/images/722.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "bot-machines",
+    "thumbnail": "https://BitNovaGo.github.io/images/723.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-zombie-vs-stickman-hero",
+    "thumbnail": "https://BitNovaGo.github.io/images/724.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "atv-ultimate-offroad",
+    "thumbnail": "https://BitNovaGo.github.io/images/725.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-puzzle-travel",
+    "thumbnail": "https://BitNovaGo.github.io/images/726.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "anime-couple-avatar-maker",
+    "thumbnail": "https://BitNovaGo.github.io/images/727.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "shepherd-farm",
+    "thumbnail": "https://BitNovaGo.github.io/images/728.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "road-digging-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/729.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sky-blocks-falling",
+    "thumbnail": "https://BitNovaGo.github.io/images/730.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "snake-io",
+    "thumbnail": "https://BitNovaGo.github.io/images/731.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-cave-for-brainrot-hdd",
+    "thumbnail": "https://BitNovaGo.github.io/images/732.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wormsarenaio",
+    "thumbnail": "https://BitNovaGo.github.io/images/733.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "sea-lords",
+    "thumbnail": "https://BitNovaGo.github.io/images/734.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "marina-fever-tycoon",
+    "thumbnail": "https://BitNovaGo.github.io/images/735.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "winter-gifts",
+    "thumbnail": "https://BitNovaGo.github.io/images/736.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "catch-tiles-piano-game",
+    "thumbnail": "https://BitNovaGo.github.io/images/737.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-survival-rainbow-friends-monster",
+    "thumbnail": "https://BitNovaGo.github.io/images/738.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fill-the-fridge",
+    "thumbnail": "https://BitNovaGo.github.io/images/739.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rocket-fest",
+    "thumbnail": "https://BitNovaGo.github.io/images/740.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "wordling",
+    "thumbnail": "https://BitNovaGo.github.io/images/741.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "train-master",
+    "thumbnail": "https://BitNovaGo.github.io/images/742.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-rodeo-multiplication",
+    "thumbnail": "https://BitNovaGo.github.io/images/743.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "pizza-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/744.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "super-ball-fall-lon",
+    "thumbnail": "https://BitNovaGo.github.io/images/745.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "data-diggers",
+    "thumbnail": "https://BitNovaGo.github.io/images/746.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-nonogram-puzzle-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/747.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "chihuahua-clicker-hku",
+    "thumbnail": "https://BitNovaGo.github.io/images/748.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-gum-simulator",
+    "thumbnail": "https://BitNovaGo.github.io/images/749.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "valentine-hidden-heart",
+    "thumbnail": "https://BitNovaGo.github.io/images/750.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pumpking-vs-mummy",
+    "thumbnail": "https://BitNovaGo.github.io/images/751.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "stickman-bow",
+    "thumbnail": "https://BitNovaGo.github.io/images/752.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bit-coin-clicker-yxi",
+    "thumbnail": "https://BitNovaGo.github.io/images/753.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lumber-factory-simulator",
+    "thumbnail": "https://BitNovaGo.github.io/images/754.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "hula-hoop-race",
+    "thumbnail": "https://BitNovaGo.github.io/images/755.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-retro-chase",
+    "thumbnail": "https://BitNovaGo.github.io/images/756.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-pro-4",
+    "thumbnail": "https://BitNovaGo.github.io/images/757.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "rat-s-house---nonogram",
+    "thumbnail": "https://BitNovaGo.github.io/images/758.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lazy-jumper",
+    "thumbnail": "https://BitNovaGo.github.io/images/759.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cuttie-pet-shop",
+    "thumbnail": "https://BitNovaGo.github.io/images/760.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-onion-boy-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/761.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jigsort-puzzles",
+    "thumbnail": "https://BitNovaGo.github.io/images/762.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "meme-mukbang-asmr-game",
+    "thumbnail": "https://BitNovaGo.github.io/images/763.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "path-of-survivor",
+    "thumbnail": "https://BitNovaGo.github.io/images/764.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "park-town",
+    "thumbnail": "https://BitNovaGo.github.io/images/765.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "neon-nexus-starship-evolution",
+    "thumbnail": "https://BitNovaGo.github.io/images/766.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "big-neon-tower-vs-tiny-square",
+    "thumbnail": "https://BitNovaGo.github.io/images/767.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "v-and-n-pizza-cooking-game",
+    "thumbnail": "https://BitNovaGo.github.io/images/768.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "domino-world",
+    "thumbnail": "https://BitNovaGo.github.io/images/769.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "lime-playground-sandbox",
+    "thumbnail": "https://BitNovaGo.github.io/images/770.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shoot-the-bottle",
+    "thumbnail": "https://BitNovaGo.github.io/images/771.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "parking-line",
+    "thumbnail": "https://BitNovaGo.github.io/images/772.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "family-tree-emoji",
+    "thumbnail": "https://BitNovaGo.github.io/images/773.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mahjong-triple-3d-tile-match",
+    "thumbnail": "https://BitNovaGo.github.io/images/774.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "city-of-psychos",
+    "thumbnail": "https://BitNovaGo.github.io/images/775.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-jam-traffic-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/776.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "think-to-escape",
+    "thumbnail": "https://BitNovaGo.github.io/images/777.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "archery-master",
+    "thumbnail": "https://BitNovaGo.github.io/images/778.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "real-street-fighter-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/779.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "your-chronicle",
+    "thumbnail": "https://BitNovaGo.github.io/images/780.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hit-ball",
+    "thumbnail": "https://BitNovaGo.github.io/images/781.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "real-cars-in-city",
+    "thumbnail": "https://BitNovaGo.github.io/images/782.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rescue-throw",
+    "thumbnail": "https://BitNovaGo.github.io/images/783.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rogue-soul-2",
+    "thumbnail": "https://BitNovaGo.github.io/images/784.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cyber-monday",
+    "thumbnail": "https://BitNovaGo.github.io/images/785.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "spiderlox-theme-park-battle",
+    "thumbnail": "https://BitNovaGo.github.io/images/786.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "merge-survival",
+    "thumbnail": "https://BitNovaGo.github.io/images/787.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hexa-puzzle",
+    "thumbnail": "https://BitNovaGo.github.io/images/788.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "a-grim-chase",
+    "thumbnail": "https://BitNovaGo.github.io/images/789.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ellie-chinese-new-year-celebration",
+    "thumbnail": "https://BitNovaGo.github.io/images/790.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "squirrel-with-a-gun",
+    "thumbnail": "https://BitNovaGo.github.io/images/791.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "harvest-land-tycoon",
+    "thumbnail": "https://BitNovaGo.github.io/images/792.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "princess-royal-wedding",
+    "thumbnail": "https://BitNovaGo.github.io/images/793.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "ragdoll-drop-tycoon",
+    "thumbnail": "https://BitNovaGo.github.io/images/794.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jeff-the-killer-horrendous-smile",
+    "thumbnail": "https://BitNovaGo.github.io/images/795.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dynamons-10",
+    "thumbnail": "https://BitNovaGo.github.io/images/796.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "maze-planet-3d",
+    "thumbnail": "https://BitNovaGo.github.io/images/797.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "baby-dress-up",
+    "thumbnail": "https://BitNovaGo.github.io/images/798.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "penalty-shootout-multi-league",
+    "thumbnail": "https://BitNovaGo.github.io/images/799.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  }
+]
